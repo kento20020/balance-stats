@@ -17,10 +17,10 @@ Zenn記事の補足資料です。
 
 | パス | 内容 |
 |---|---|
-| `INTEGRATION.md` | シミュレーションハーネスへの組み込みガイド |
 | `docs/game_design_document_v0_5.md` | レビュー対象の設計書（v0.5、開発途中） |
 | `logs/fable5.md` | Claude Fable 5 のレビュー応答全文 |
 | `logs/opus4_8.md` | Claude Opus 4.8 のレビュー応答全文 |
+| `INTEGRATION.md` | シミュレーションハーネスへの組み込みガイド |
 | `balance_stats.py` | Fable 5 が実装した統計ライブラリ（numpy/scipyのみ依存） |
 
 ## ログについて
