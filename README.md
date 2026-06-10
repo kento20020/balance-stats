@@ -6,8 +6,7 @@ LLMレビュー比較（Claude Fable 5 vs Opus 4.8）の一次資料。
 ## このリポジトリについて
 
 Zenn記事の補足資料です。
-
-📝 [「有意差なし ≠ 差なし」を Claude Fable 5 は理解しているのか](記事URL)
+https://zenn.dev/beckento/articles/55fb157f9c242c
 
 ゲーム設計書のバランス検証手法に潜んでいた統計的誤謬
 （「有意差なし＝差なし」と判定してしまう構造）を、
